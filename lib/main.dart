@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart' as rootBundle;
+import 'package:pt2_instadam/posts.dart';
 
 void main() {
   runApp(const MyApp());
